@@ -2,3 +2,5 @@
 body {
   font-family: 'Jua', sans-serif;
 }
+/* Media Queries */
+@media (min-width: 320px)
