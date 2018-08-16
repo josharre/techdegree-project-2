@@ -3,4 +3,4 @@ body {
   font-family: 'Jua', sans-serif;
 }
 /* Media Queries */
-@media (max-width: 320px)
+@media (min-width: 320px)
